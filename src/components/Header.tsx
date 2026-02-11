@@ -27,7 +27,7 @@ export default function Header({ onContactClick }: HeaderProps) {
       <div className="container mx-auto px-6 py-6">
         <div className="flex items-center justify-between">
           <div className="text-2xl font-light text-[#F5F2EE] tracking-tight">
-            NexureBuild
+            NexuraBuild
           </div>
           <button
             onClick={onContactClick}
